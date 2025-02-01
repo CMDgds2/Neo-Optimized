@@ -1,4 +1,4 @@
 # Optimization for [ Neo Forge ]
-- Curse Forge
+- CurseForge
 - [Modrinth](https://modrinth.com/project/neo-optimized)
-- GitHub
+- [GitHub](https://github.com/CMDgds2/Neo-Optimized)
